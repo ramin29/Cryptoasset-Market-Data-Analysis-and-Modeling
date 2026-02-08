@@ -1,4 +1,4 @@
-# Data-Analysis-and-Modeling-in-Cryptoasset-Markets
+# Cryptoasset Market Data Analysis & Modeling
 Python • Econometrics • Machine Learning • NLP • Deep Learning
 
 End-to-end cryptoasset market analysis using Python, econometrics, machine learning, deep learning, and NLP, with a focus on volatility, sentiment, and DeFi.
