@@ -50,20 +50,19 @@ The project applies a multi-layered analytical approach:
 - Construction of sentiment indicators for crypto markets
 
 ## Key Analytical Focus Areas
-Market behavior of cryptocurrencies and cryptoassets
-NFT market segmentation analysis
-DeFi protocol characteristics and risks
-Interdependencies between cryptoassets and broader financial markets
-Impact of textual sentiment on price dynamics
+- Market behavior of cryptocurrencies and cryptoassets
+- NFT market segmentation analysis
+- DeFi protocol characteristics and risks
+- Interdependencies between cryptoassets and broader financial markets
+- Impact of textual sentiment on price dynamics
 
 ## Tools & Technologies
-Python
-Pandas, NumPy, Matplotlib
-Scikit-learn
-Econometric and statistical modeling tools
-Neural networks and deep learning frameworks
-NLP models including BERT and FinBERT
-Google Colab / Jupyter Notebooks
+- Pandas, NumPy, Matplotlib
+- Scikit-learn
+- Econometric and statistical modeling tools
+- Neural networks and deep learning frameworks
+- NLP models including BERT and FinBERT
+- Google Colab / Jupyter Notebooks
 
 ## Key Outcomes
 - Built reproducible pipelines for crypto market data analysis
